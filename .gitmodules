@@ -1,0 +1,15 @@
+[submodule "SOR/SOR"]
+	path = SOR/SOR
+	url = D:\\Develop\\Ideas\\FiniteDifference2D\\SOR\\SOR
+[submodule "SolveMatrixEquGauss/SolveMatrixEquGauss"]
+	path = SolveMatrixEquGauss/SolveMatrixEquGauss
+	url = D:\\Develop\\Ideas\\FiniteDifference2D\\SolveMatrixEquGauss\\SolveMatrixEquGauss
+[submodule "SparseMatrix"]
+	path = SparseMatrix
+	url = D:\\Develop\\Ideas\\FiniteDifference2D\\SparseMatrix
+[submodule "Elliptic_FD_2D"]
+	path = Elliptic_FD_2D
+	url = D:\\Develop\\Ideas\\FiniteDifference2D\\Elliptic_FD_2D
+[submodule "Elliptic2DCheck"]
+	path = Elliptic2DCheck
+	url = D:\\Develop\\Ideas\\FiniteDifference2D\\Elliptic2DCheck
